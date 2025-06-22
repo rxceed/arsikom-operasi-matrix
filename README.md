@@ -8,6 +8,6 @@ Matrix dideklarasikan sebagai array dengan jumlah elemen sebanyak rows*cols.<br/
 <br/>
 Program ini dibuat dalam bahasa Assembly dengan assembler NASM pada sistem operasi Linux<br/>
 Terdapat 3 file dalam repository ini, yaitu:<br/>
-1. tugas.asm -> File ini merupakan file kode assembly
-2. tugas.o -> File ini merupakan file object dari kdoe yang sudah dicompile menggunakan NASM
-3. tugas -> File ini merupakan file executable Linux yang dapat dijalankan.
+1. tugas.asm -> File ini merupakan file kode assembly<br/>
+2. tugas.o -> File ini merupakan file object dari kdoe yang sudah dicompile menggunakan NASM<br/>
+3. tugas -> File ini merupakan file executable Linux yang dapat dijalankan.<br/>
